@@ -1,4 +1,4 @@
-# Pyber_Analysis-
+# Pyber_Analysis
 # Challenge #5 (UTOR-VIRT-DATA-PT-12-2021-U-B)
 # Student: Agnes Tong
 
@@ -11,6 +11,7 @@ Pyber is a ride sharing service that operates in three city types: urban, suburb
 Below is the summary table of Pyber’s metrics across urban, suburban, and rural cities. The number of rides are the highest in urban areas, followed by suburban and rural. The total number of drivers and total fares follow the same pattern. The average fare per ride and per driver were highest in rural areas. 
 
 ![Pyber_Fare_Summary](https://user-images.githubusercontent.com/96399622/152624351-23e15b2b-757f-42af-8918-b9a86bcd7a22.PNG)
+
 
 
 The line graph below shows the fares for each type of city over time. Fares peaked for all city types towards the end of February. 
